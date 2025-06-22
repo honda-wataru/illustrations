@@ -14,29 +14,19 @@
 
 <p align="center">
   <img src="008.jpg" alt="008" width="32%">
-  <img src="011.jpg" alt="011" width="32%">
   <img src="012.jpg" alt="012" width="32%">
-</p>
-
-<p align="center">
   <img src="013.jpg" alt="013" width="32%">
-  <img src="014.jpg" alt="014" width="32%">
-  <img src="015.jpg" alt="015" width="32%">
 </p>
 
 <p align="center">
-  <img src="017.jpg" alt="017" width="32%">
   <img src="019.jpg" alt="019" width="32%">
-  <img src="020.jpg" alt="020" width="32%">
-</p>
-
-<p align="center">
   <img src="021.jpg" alt="021" width="32%">
   <img src="024.jpg" alt="024" width="32%">
-  <img src="025.jpg" alt="025" width="32%">
 </p>
 
 <p align="center">
+  <img src="025.jpg" alt="025" width="32%">
+  <img src="027.jpg" alt="027" width="32%">
   <img src="027.jpg" alt="027" width="32%">
 </p>
 
@@ -54,17 +44,18 @@
 
 <p align="center">
   <img src="016s.jpg" alt="016s" width="32%">
+  <img src="017s.jpg" alt="017s" width="32%">
   <img src="018s.jpg" alt="018s" width="32%">
-  <img src="022s.jpg" alt="022s" width="32%">
 </p>
 
 <p align="center">
+  <img src="022s.jpg" alt="022s" width="32%">
   <img src="023s.jpg" alt="023s" width="32%">
   <img src="026s.jpg" alt="026s" width="32%">
-  <img src="028s.jpg" alt="028s" width="32%">
 </p>
 
 <p align="center">
+  <img src="028s.jpg" alt="028s" width="32%">
   <img src="029s.jpg" alt="029s" width="32%">
   <img src="030s.jpg" alt="030s" width="32%">
 </p>
