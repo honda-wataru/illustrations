@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="019.jpg" alt="019" width="32%">
-  <img src="021.jpg" alt="021" width="32%">
+  <img src="020.jpg" alt="020" width="32%">
   <img src="021.jpg" alt="021" width="32%">
 </p>
 
