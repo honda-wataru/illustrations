@@ -1,5 +1,6 @@
 # AIのイラスト
 
+<!-- 長方形画像 -->
 <p align="center">
   <img src="001.jpg" alt="001" width="32%">
   <img src="003.jpg" alt="003" width="32%">
@@ -21,15 +22,16 @@
 <p align="center">
   <img src="019.jpg" alt="019" width="32%">
   <img src="021.jpg" alt="021" width="32%">
-  <img src="024.jpg" alt="024" width="32%">
+  <img src="021.jpg" alt="021" width="32%">
 </p>
 
 <p align="center">
+  <img src="024.jpg" alt="024" width="32%">
   <img src="025.jpg" alt="025" width="32%">
-  <img src="027.jpg" alt="027" width="32%">
   <img src="027.jpg" alt="027" width="32%">
 </p>
 
+<!-- 正方形画像 -->
 <p align="center">
   <img src="002s.jpg" alt="002s" width="32%">
   <img src="009s.jpg" alt="009s" width="32%">
