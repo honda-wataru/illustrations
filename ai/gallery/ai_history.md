@@ -2,19 +2,19 @@
 
 <!-- 長方形 -->
 <p align="center">
-  <img src="../ai_history/1.jpg" alt="1" width="32%">
-  <img src="../ai_history/3.jpg" alt="3" width="32%">
-  <img src="../ai_history/4.jpg" alt="4" width="32%">
+  <img src="../ai_history/01.jpg" alt="01" width="32%">
+  <img src="../ai_history/03.jpg" alt="03" width="32%">
+  <img src="../ai_history/04.jpg" alt="04" width="32%">
 </p>
 
 <p align="center">
-  <img src="../ai_history/5.jpg" alt="5" width="32%">
-  <img src="../ai_history/6.jpg" alt="6" width="32%">
-  <img src="../ai_history/7.jpg" alt="7" width="32%">
+  <img src="../ai_history/05.jpg" alt="05" width="32%">
+  <img src="../ai_history/06.jpg" alt="06" width="32%">
+  <img src="../ai_history/07.jpg" alt="07" width="32%">
 </p>
 
 <p align="center">
-  <img src="../ai_history/8.jpg" alt="8" width="32%">
+  <img src="../ai_history/08.jpg" alt="08" width="32%">
   <img src="../ai_history/12.jpg" alt="12" width="32%">
   <img src="../ai_history/13.jpg" alt="13" width="32%">
 </p>
@@ -27,8 +27,8 @@
 
 <!-- 正方形 -->
 <p align="center">
-  <img src="../ai_history/2s.jpg" alt="2s" width="19%">
-  <img src="../ai_history/9s.jpg" alt="9s" width="19%">
+  <img src="../ai_history/02s.jpg" alt="02s" width="19%">
+  <img src="../ai_history/09s.jpg" alt="09s" width="19%">
   <img src="../ai_history/10s.jpg" alt="10s" width="19%">
   <img src="../ai_history/11s.jpg" alt="11s" width="19%">
   <img src="../ai_history/14s.jpg" alt="14s" width="19%">
