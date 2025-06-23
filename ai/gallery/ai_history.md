@@ -1,57 +1,57 @@
-# AIのイラスト
+# AI History
 
 <!-- 長方形 -->
 <p align="center">
-  <img src="001.jpg" alt="001" width="32%">
-  <img src="003.jpg" alt="003" width="32%">
-  <img src="004.jpg" alt="004" width="32%">
+  <img src="../ai_history/1.jpg" alt="1" width="32%">
+  <img src="../ai_history/3.jpg" alt="3" width="32%">
+  <img src="../ai_history/4.jpg" alt="4" width="32%">
 </p>
 
 <p align="center">
-  <img src="005.jpg" alt="005" width="32%">
-  <img src="006.jpg" alt="006" width="32%">
-  <img src="007.jpg" alt="007" width="32%">
+  <img src="../ai_history/5.jpg" alt="5" width="32%">
+  <img src="../ai_history/6.jpg" alt="6" width="32%">
+  <img src="../ai_history/7.jpg" alt="7" width="32%">
 </p>
 
 <p align="center">
-  <img src="008.jpg" alt="008" width="32%">
-  <img src="012.jpg" alt="012" width="32%">
-  <img src="013.jpg" alt="013" width="32%">
+  <img src="../ai_history/8.jpg" alt="8" width="32%">
+  <img src="../ai_history/12.jpg" alt="12" width="32%">
+  <img src="../ai_history/13.jpg" alt="13" width="32%">
 </p>
 
 <p align="center">
-  <img src="019.jpg" alt="019" width="32%">
-  <img src="020.jpg" alt="020" width="32%">
-  <img src="021.jpg" alt="021" width="32%">
+  <img src="../ai_history/19.jpg" alt="19" width="32%">
+  <img src="../ai_history/20.jpg" alt="20" width="32%">
+  <img src="../ai_history/21.jpg" alt="21" width="32%">
 </p>
 
-<!-- 正方形（5列） -->
+<!-- 正方形 -->
 <p align="center">
-  <img src="002s.jpg" alt="002s" width="19%">
-  <img src="009s.jpg" alt="009s" width="19%">
-  <img src="010s.jpg" alt="010s" width="19%">
-  <img src="011s.jpg" alt="011s" width="19%">
-  <img src="014s.jpg" alt="014s" width="19%">
-</p>
-
-<p align="center">
-  <img src="015s.jpg" alt="015s" width="19%">
-  <img src="016s.jpg" alt="016s" width="19%">
-  <img src="017s.jpg" alt="017s" width="19%">
-  <img src="018s.jpg" alt="018s" width="19%">
-  <img src="022s.jpg" alt="022s" width="19%">
+  <img src="../ai_history/2s.jpg" alt="2s" width="19%">
+  <img src="../ai_history/9s.jpg" alt="9s" width="19%">
+  <img src="../ai_history/10s.jpg" alt="10s" width="19%">
+  <img src="../ai_history/11s.jpg" alt="11s" width="19%">
+  <img src="../ai_history/14s.jpg" alt="14s" width="19%">
 </p>
 
 <p align="center">
-  <img src="023s.jpg" alt="023s" width="19%">
-  <img src="024s.jpg" alt="024s" width="19%">
-  <img src="025s.jpg" alt="025s" width="19%">
-  <img src="026s.jpg" alt="026s" width="19%">
-  <img src="027s.jpg" alt="027s" width="19%">
+  <img src="../ai_history/15s.jpg" alt="15s" width="19%">
+  <img src="../ai_history/16s.jpg" alt="16s" width="19%">
+  <img src="../ai_history/17s.jpg" alt="17s" width="19%">
+  <img src="../ai_history/18s.jpg" alt="18s" width="19%">
+  <img src="../ai_history/22s.jpg" alt="22s" width="19%">
 </p>
 
 <p align="center">
-  <img src="028s.jpg" alt="028s" width="19%">
-  <img src="029s.jpg" alt="029s" width="19%">
-  <img src="030s.jpg" alt="030s" width="19%">
+  <img src="../ai_history/23s.jpg" alt="23s" width="19%">
+  <img src="../ai_history/24s.jpg" alt="24s" width="19%">
+  <img src="../ai_history/25s.jpg" alt="25s" width="19%">
+  <img src="../ai_history/26s.jpg" alt="26s" width="19%">
+  <img src="../ai_history/27s.jpg" alt="27s" width="19%">
+</p>
+
+<p align="center">
+  <img src="../ai_history/28s.jpg" alt="28s" width="19%">
+  <img src="../ai_history/29s.jpg" alt="29s" width="19%">
+  <img src="../ai_history/30s.jpg" alt="30s" width="19%">
 </p>
