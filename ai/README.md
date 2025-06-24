@@ -27,7 +27,7 @@
     <img src="./ai_slides/033s.jpg" alt="033s" width="19%">
     <img src="./ai_slides/093s.jpg" alt="093s" width="19%">
     <img src="./ai_slides/100s.jpg" alt="100s" width="19%">
-    <img src="./ai_slides/104s.jpg" alt="104s" width="19%">
+    <img src="./ai_slides/103s.jpg" alt="103s" width="19%">
 </p>
 
 ## Dify Basics
