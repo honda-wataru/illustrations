@@ -1,5 +1,18 @@
 # AIのイラスト
 
+## AI History
+<p align="center">
+    <img src="./ai_history/01.jpg" alt="01" width="32%">
+    <img src="./ai_history/04.jpg" alt="04" width="32%">
+    <img src="./ai_history/05.jpg" alt="05" width="32%">
+</p>
+
+<p align="center">
+    <img src="./ai_history/08.jpg" alt="08" width="32%">
+    <img src="./ai_history/12.jpg" alt="12" width="32%">
+    <img src="./ai_history/13.jpg" alt="13" width="32%">
+</p>
+
 ## AI Slides
 <p align="center">
     <img src="./ai_slides/001s.jpg" alt="001s" width="19%">
