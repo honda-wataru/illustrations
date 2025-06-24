@@ -29,3 +29,10 @@
     <img src="./ai_slides/100s.jpg" alt="100s" width="19%">
     <img src="./ai_slides/104s.jpg" alt="104s" width="19%">
 </p>
+
+## Dify Basics
+<p align="center">
+    <img src="./dify_basics/01.jpg" alt="01" width="32%">
+    <img src="./dify_basics/03.jpg" alt="03" width="32%">
+    <img src="./dify_basics/04.jpg" alt="04" width="32%">
+</p>
