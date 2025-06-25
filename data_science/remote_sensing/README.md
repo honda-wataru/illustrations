@@ -1,6 +1,5 @@
-# データサイエンスのイラスト
+# Remote Sensing
 
-## Remote Sensing
 <p align="center">
     <img src="01s.jpg" alt="01s" width="19%">
     <img src="02s.jpg" alt="02s" width="19%">
