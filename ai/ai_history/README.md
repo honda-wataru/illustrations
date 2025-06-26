@@ -54,4 +54,6 @@
   <img src="28s.jpg" alt="28s" width="19%">
   <img src="29s.jpg" alt="29s" width="19%">
   <img src="30s.jpg" alt="30s" width="19%">
+  <img src="../../backgrounds/01.jpg" alt="backgrounds/01" width="19%">
+  <img src="../../backgrounds/01.jpg" alt="backgrounds/01" width="19%">
 </p>
