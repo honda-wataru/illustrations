@@ -1,7 +1,7 @@
 # イラスト集
 
 <p align="center">
-  <img src="seasons/07.jpg" alt="Illustration 07" width="100%">
+  <img src="seasons/08.jpg" alt="Illustration 08" width="100%">
 </p>
 
 [LICENSE](LICENSE) (CC-BY 4.0)  
