@@ -33,6 +33,12 @@
 ## Dify Basics
 <p align="center">
     <img src="./dify_basics/01.jpg" alt="01" width="32%">
+    <img src="./dify_basics/12.jpg" alt="12" width="32%">
+    <img src="../misc/backgrounds/01.jpg" alt="backgrounds/01" width="32%">
+</p>
+
+<p align="center">
     <img src="./dify_basics/03.jpg" alt="03" width="32%">
     <img src="./dify_basics/04.jpg" alt="04" width="32%">
+    <img src="./dify_basics/06.jpg" alt="06" width="32%">
 </p>
