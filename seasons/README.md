@@ -16,6 +16,6 @@
 ## 2024
 <p align="center">
   <img src="01.jpg" alt="01" width="32%">
-  <img src="../backgrounds/01.jpg" alt="backgrounds/01" width="32%">
-  <img src="../backgrounds/01.jpg" alt="backgrounds/01" width="32%">
+  <img src="../misc/backgrounds/01.jpg" alt="backgrounds/01" width="32%">
+  <img src="../misc/backgrounds/01.jpg" alt="backgrounds/01" width="32%">
 </p>
